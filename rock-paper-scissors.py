@@ -56,7 +56,7 @@ while True:
     elif playerChoice == 'p' and computerMove == 's':
         print('You lose! Scissors cut paper.')
         losses = losses + 1
-    elif playerChoice == 's' and ComputerMove =='r':
+    elif playerChoice == 's' and computerMove =='r':
         print('You lose! Rock smashes scissors.')
         losses = losses + 1
 
