@@ -16,3 +16,4 @@ if __name__ == '__main__':
     elif n in weird:
         print ("Weird");
     else:
+		print ("Not Weird");
