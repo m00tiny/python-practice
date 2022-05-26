@@ -19,31 +19,31 @@ while True:
         #  | '__/ __| __| '__| | '_ \
         # _| |  \__ \ |_| |  | | |_) |
         #(_)_|  |___/\__|_|  |_| .__/
-        #                      |_|
-        combinesplit, MVC, parenths = s.split(";")
+        #                      |_|  
+        combinesplit, mvc, parenth = s.split(";")
         if combinesplit == "S":
-            if MVC == "M":
-                cap = parenths[:-2]
-
-            if MVC == "V" or MVC == "C":
-                cap = parenths
-
-            combinesplit = re.sub ("(\w)([A-Z])", r"\1 \2", cap)
-            print (combinesplit.lower())
-
+            if mvc == "M":
+                capitalize = parenth[:-2]                                   
+                
+            if mvc == "V" or mvc == "C":
+                capitalize = parenth
+            
+            s = re.sub ("(\w)([A-Z])", r"\1 \2", capitalize)
+            print (s.lower())
+                
         if combinesplit == "C":
-            cap = parenths.title ()
-            combinesplit = re.sub (r" ", r"", cap)
-            q = combinesplit[:1].lower() + combinesplit[1:]
-
-            if MVC == "M":
+            capitalize = parenth.title ()
+            s = re.sub (r" ", r"", capitalize)
+            q = s[:1].lower() + s[1:]                
+            
+            if mvc == "M":                                
                 print (q+"()")
-
-            if MVC == "V":
-                print (combinesplit)
-
-            if MVC == "C":
+                
+            if mvc == "V":
+                print (s)
+              
+            if mvc == "C":
                 print (q)
-
+            
     except EOFError:
         break
