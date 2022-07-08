@@ -5,7 +5,7 @@ def addsubmul(a, b):
     sum_ = a + b
     difference = a - b
     product = a * b
-    return (str(sum_) + "\n" + str(difference) + "\n" + str(product))
+    return ("Sum: " + str(sum_) + "\nDifference: " + str(difference) + "\nProduct: " + str(product))
 
 
 var1 = int(input("First integer: "))

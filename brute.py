@@ -6,6 +6,8 @@ import urllib.request
 import json
 import datetime
 
+# HyperSkills/EduTools/JetBrains Academy Password Hacker Stage 5 Solution
+
 def password_generator(length):
     for m in itertools.product(itertools.chain(range(65, 91), range(97, 123), range(48, 58)), repeat=length):
         yield ''.join(map(chr, iter(m)))

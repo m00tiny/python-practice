@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cb9853e-0e7e-46d7-aad7-4284715196d3" name="Changes" comment="lol" />
+    <list default="true" id="7cb9853e-0e7e-46d7-aad7-4284715196d3" name="Changes" comment="lol">
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/input/input00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/numpy-array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arrays/output/output00.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/defaultdict/defaultdict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/exceptions-English.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exceptions/exceptions-testcases.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iter-product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arrays/np-arrays-testcases.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-arithimetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic-arithimetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/brute.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,13 +63,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/mootiny/projects/python-practice"
+  }
+}]]></component>
   <component name="RunManager" selected="Python.nestedlists">
     <configuration name="nestedlists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-practice" />
