@@ -6,8 +6,12 @@
 /.idea/vcs.xml
 /.idea/.gitignore
 /.idea/misc.xml
+/.idea/workspace.xml
+/.idea/
 /defaultdict/.idea/modules.xml
 /defaultdict/.idea/misc.xml
 /defaultdict/.idea/defaultdict.iml
 /defaultdict/.idea/inspectionProfiles/profiles_settings.xml
 /defaultdict/.idea/vcs.xml
+/.mypy_cache/
+/venv/
