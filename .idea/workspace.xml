@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7cb9853e-0e7e-46d7-aad7-4284715196d3" name="Changes" comment="lol">
-      <change afterPath="$PROJECT_DIR$/arrays/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/.idea/arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/input/input00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/numpy-array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays/output/output00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/defaultdict/defaultdict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions/exceptions-English.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions/exceptions-testcases.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iter-product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays/np-arrays-testcases.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/basic-arithimetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic-arithimetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,8 +100,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.nestedlists" />
       <item itemvalue="Python.python-practice" />
+      <item itemvalue="Python.nestedlists" />
     </list>
     <recent_temporary>
       <list>
@@ -167,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648859668244</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lol">
+      <created>1657253580480</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1657253580480</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
