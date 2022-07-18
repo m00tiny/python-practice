@@ -1,0 +1,23 @@
+#!/usr/bin/env python3
+import time, sys
+indent = 0 # spaces to indent
+indentIncreasing = True # whether the indention is increasing
+
+try:
+    while True:
+        print (' ' * indent, end='')
+        print('********')
+        time.sleep(0.1)
+        if indentIncreasing:
+            # increase the number of spaces
+            indent += 1
+            if indent == 20:
+                # Change direction
+                indentIncreasing = False
+        else:
+            # Decrease the number of spaces
+            indent -= 1
+            if indent == 0:
+                indentIncreasing = True
+except KeyboardInterrupt:
+    sys.exit()

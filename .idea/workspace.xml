@@ -4,26 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cb9853e-0e7e-46d7-aad7-4284715196d3" name="Changes" comment="lol">
-      <change afterPath="$PROJECT_DIR$/arrays-ds/arrays-ds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-ds/exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-ds/input/input08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-ds/output/output08.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/arrays-ds/symmetric_difference.pu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/divisible-sum-pairs/input/input00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/divisible-sum-pairs/output/output00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions/input/input00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exceptions/output/output00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set.add/input/input00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/set.add/output/output00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle-quest-2/input/input00.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/triangle-quest-2/output/output00.txt" afterDir="false" />
+    <list default="true" id="7cb9853e-0e7e-46d7-aad7-4284715196d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Ch.3-Functions/8ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3-Functions/abcdCallStack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3-Functions/allMyCats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3-Functions/helloFunc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ch.3-Functions/zigzag.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collections.namedtuple/info.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arrays-ds/arrays-ds-testcases.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/divisible-sum-pairs/three-month-preparation-kit-divisible-sum-pairs-testcases.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exceptions/exceptions-testcases.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/set.add/py-set-add-testcases.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/triangle-quest-2/triangle-quest-2-testcases.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/collatz.py" beforeDir="false" afterPath="$PROJECT_DIR$/collatz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +44,9 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -71,7 +63,8 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/mootiny/projects/python-practice"
+    "last_opened_file_path": "/home/mootiny/projects/python-practice",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
   <component name="RunManager" selected="Python.nestedlists">
@@ -192,7 +185,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657253899896</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="lol">
+      <created>1657257848798</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1657257848798</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

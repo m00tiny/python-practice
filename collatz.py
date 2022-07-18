@@ -2,8 +2,8 @@
 
 # collatz function
 
-print("Give me a number.")
-collatznum = int(input())
+
+collatznum = int(input("Give me a number: "))
 
 def collatz(collatznum):
     while collatznum != 1:
